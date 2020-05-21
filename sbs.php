@@ -25,7 +25,7 @@
             $CodS = $_GET['CodS'];
 
             if (empty($CodC) || empty($CodS)){
-                draw_message('danger' ,'Please do not leave any empty input fields');
+                draw_message('Please do not leave any empty input fields');
                 die();
             }
             

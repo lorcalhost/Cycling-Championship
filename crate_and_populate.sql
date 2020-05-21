@@ -14,7 +14,6 @@ DROP TABLE IF EXISTS Team;
 DROP TABLE IF EXISTS Stage;
 
 -- create tables
-
 CREATE TABLE Team (
 	CodT CHAR(20),
 	NameT CHAR(50) NOT NULL,
@@ -22,6 +21,7 @@ CREATE TABLE Team (
 	LegalAddress CHAR(100) NOT NULL,
 	PRIMARY KEY (CodT)
 );
+
 CREATE TABLE Cyclist (
 	CodC CHAR(20),
 	Name CHAR(50) NOT NULL,

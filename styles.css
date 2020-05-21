@@ -1,0 +1,14 @@
+/*
+Due to the homework instructions, I need to overwrite Bootstrap's built-in alert-danger and alert-success text colors and background colors.
+Remove this stylesheet to go back to Bootstraps's default colors and for a better visual experience.
+*/
+
+.alert-danger {
+    color: #ffffff;
+    background-color: #F44236;
+}
+
+.alert-success {
+    color: #ffffff;
+    background-color: #4cb050;
+}

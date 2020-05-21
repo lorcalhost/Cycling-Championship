@@ -11,4 +11,4 @@
 - `styles.css` - Bootstrap's default alert style overriding (due to homework alert-style requirements)
 - `README.md` - list and description of each file
 
-The homework problem description can be found in the file `problem_desccription.pdf`
+The homework problem description can be found in the file `problem_description.pdf` or by clicking [here](https://github.com/lorcalhost/Cycling-Championship/blob/master/problem_description.pdf).
